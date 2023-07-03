@@ -1,4 +1,4 @@
-# Cardapio-RocketCoffee
+# Cárdapio-RocketCoffee
 <img src="./IMG/cardapio.png" alt="" />
 
 <h2>Esse projeto foi desenvolvido pela Maratona RockeatSeat 3 edição.</h2>
